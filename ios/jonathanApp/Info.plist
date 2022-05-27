@@ -53,15 +53,12 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>SFPRODISPLAYBLACKITALIC.OTF</string>
-		<string>SFPRODISPLAYBOLD.OTF</string>
-		<string>SFPRODISPLAYHEAVYITALIC.OTF</string>
-		<string>SFPRODISPLAYLIGHTITALIC.OTF</string>
-		<string>SFPRODISPLAYMEDIUM.OTF</string>
-		<string>SFPRODISPLAYREGULAR.OTF</string>
-		<string>SFPRODISPLAYSEMIBOLDITALIC.OTF</string>
-		<string>SFPRODISPLAYTHINITALIC.OTF</string>
-		<string>SFPRODISPLAYULTRALIGHTITALIC.OTF</string>
+		<string>bold.ttf</string>
+		<string>heavy.ttf</string>
+		<string>light.ttf</string>
+		<string>medium.ttf</string>
+		<string>regular.ttf</string>
+		<string>semibold.ttf</string>
 		<string>AntDesign.ttf</string>
 		<string>Entypo.ttf</string>
 		<string>EvilIcons.ttf</string>
@@ -78,13 +75,6 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
-		<string>WorkSans-Bold.ttf</string>
-		<string>bold.ttf</string>
-		<string>heavy.ttf</string>
-		<string>light.ttf</string>
-		<string>medium.ttf</string>
-		<string>regular.ttf</string>
-		<string>semibold.ttf</string>
 	</array>
 </dict>
 </plist>
